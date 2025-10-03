@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: chapters/00-intro-book
+chapters: 
+- file: chapters/01-intro-db
+  sections:
+  - file: chapters/0101-history
+  - file: chapters/0102-contemporary
+  - file: chapters/0103-career
+  - file: chapters/0104-assignment
